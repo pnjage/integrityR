@@ -1,5 +1,5 @@
 
-####################### Catalyst Code ####################
+####################### Catalyst Code ####################Run in RStudio###
 
 # In the end, will automate the code   
 
