@@ -42,9 +42,9 @@ if(!require(RColorBrewer))install.packages("RColorBrewer") # Color palettes
 setwd("E:/Projects/Catalyst Grant")
 
 # Loading sample data
-data <- read.csv("MutukuData.csv")
-head(data)
+url <- "https://raw.githubusercontent.com/pnjage/integrityR/30d993ba8eb6ee7a525db90f05b2e92ffad8eedd/MutukuData.csv" 
 
+data <- read.csv(url)
 
 ########### 1. Data integrity checks
 
