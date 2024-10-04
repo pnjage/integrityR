@@ -38,8 +38,7 @@ if(!require(git2r))install.packages("git2r") # Git version control
 if(!require(shiny))install.packages("shiny") # Web applications
 if(!require(RColorBrewer))install.packages("RColorBrewer") # Color palettes
 
-# Setting working directory. Please change the pathway where the data is saved
-setwd("E:/Projects/Catalyst Grant")
+
 
 # Loading sample data
 url <- "https://raw.githubusercontent.com/pnjage/integrityR/30d993ba8eb6ee7a525db90f05b2e92ffad8eedd/MutukuData.csv" 
