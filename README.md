@@ -1,7 +1,7 @@
 # integrityR
 R-Based Research Integrity Analysis Tool 
 Idea: integrityR - R-Based Research Integrity Analysis Tool 
-Overview: To develop an R package named integrityR, which serves as a comprehensive Research Integrity Analysis Tool (RIAT). This package will empower researchers to analyze, monitor, and ensure research integrity throughout the study cycle. By providing a suite of tools for detecting potential misconduct, assessing data quality, and promoting transparency, integrityR will be an essential resource for maintaining high ethical standards in research.
+Overview: An R package named integrityR, which serves as a comprehensive Research Integrity Analysis Tool (RIAT). This package will empower researchers to analyze, monitor, and ensure research integrity throughout the study cycle. By providing a suite of tools for detecting potential misconduct, assessing data quality, and promoting transparency, integrityR will be an essential resource for maintaining high ethical standards in research.
 
 Key features
 1.	Data integrity checks
